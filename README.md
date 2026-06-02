@@ -38,4 +38,3 @@ Server:
 - Clean and modern UI design
 - Modular and structured code
 
-- website link:-https://travelexpo.page.gd/index.php
